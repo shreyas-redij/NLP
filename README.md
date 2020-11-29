@@ -29,3 +29,8 @@ This contains all the Projets realted to Natural Language Proecessing
 
 # [Example of Word Embedding Using NLP](https://github.com/shreyas-redij/NLP/blob/main/Word_Embedding%20_NLP.ipynb)
 * This notebook shows basics of Word Embedding
+
+# [Fake news Classifer](https://github.com/shreyas-redij/NLP/blob/main/_Fake_News%20_Classifier.ipynb)
+* Predict if the news is fake or not for https://www.kaggle.com/c/fake-news/data 
+
+
