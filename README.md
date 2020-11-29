@@ -1,5 +1,5 @@
 # NLP
-This contains all the Projets realted to Natural Language Proecessing
+This contains all the Projects realted to Natural Language Proecessing
 
 # [Performed Sentiment Analysis using Naive Bayes Classifier of Best Buy Google Mini Reviews](https://github.com/shreyas-redij/NLP/blob/main/sentiment-analysis.ipynb)
 * Performing Sentiment Analysis using Naive Bayes Classifier for Google Mini Reviews from BestBuy
