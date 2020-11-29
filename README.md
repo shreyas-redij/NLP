@@ -22,3 +22,6 @@ This contains all the Projets realted to Natural Language Proecessing
 * Using Bing Lexicon Segregation for Positive and Negetive Sentiment
 * Tokenized the reviews into words using NLTK
 * Applied Naive BERT for sentiment analysis
+
+
+# [Stock Market Prediction And Forecasting Using Stacked LSTM](https://github.com/shreyas-redij/NLP/blob/main/Stock%20Market%20Prediction%20And%20Forecasting%20Using%20Stacked%20LSTM.ipynb)
