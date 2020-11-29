@@ -26,3 +26,6 @@ This contains all the Projets realted to Natural Language Proecessing
 
 # [Stock Market Prediction And Forecasting Using Stacked LSTM](https://github.com/shreyas-redij/NLP/blob/main/Stock%20Market%20Prediction%20And%20Forecasting%20Using%20Stacked%20LSTM.ipynb)
 * Performed stock prediction on Apple Dataset
+
+# [Example of Word Embedding Using NLP](https://github.com/shreyas-redij/NLP/blob/main/Word_Embedding%20_NLP.ipynb)
+* This notebook shows basic of Word Embedding
